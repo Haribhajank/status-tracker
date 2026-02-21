@@ -1,0 +1,10 @@
+[
+    {
+        "name": "OpenAI",
+        "rss": "https://status.openai.com/history.rss"
+    },
+    {
+        "name": "GitHub",
+        "rss": "https://www.githubstatus.com/history.rss"
+    }
+]
